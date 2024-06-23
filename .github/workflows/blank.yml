@@ -19,5 +19,5 @@ jobs:
 
       - name: Build project
         run: |
-          qmake QtTest/QtTest.pro
+          qmake QtTest/ttt.pro
           make
