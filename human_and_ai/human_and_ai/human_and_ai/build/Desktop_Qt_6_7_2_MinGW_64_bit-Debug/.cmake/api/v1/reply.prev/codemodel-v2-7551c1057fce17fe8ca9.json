@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0b6033d1dbc2dc397785.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "human_and_ai",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "human_and_ai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-human_and_ai-Debug-0e9d1461cdaf3b1f17eb.json",
+					"name" : "human_and_ai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "human_and_ai_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-human_and_ai_autogen-Debug-0159f0eff578f2cd0fad.json",
+					"name" : "human_and_ai_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "human_and_ai_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-human_and_ai_autogen_timestamp_deps-Debug-bb153c709562a98f656c.json",
+					"name" : "human_and_ai_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

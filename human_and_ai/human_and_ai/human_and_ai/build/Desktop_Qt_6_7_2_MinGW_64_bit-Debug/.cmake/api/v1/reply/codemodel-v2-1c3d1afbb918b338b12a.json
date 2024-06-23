@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5c7031b62faf8cadb1e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "human_and_ai",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "human_and_ai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-human_and_ai-Debug-97ff6ed865196fa6059f.json",
+					"name" : "human_and_ai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_aiplayer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_aiplayer-Debug-34484590f45c03d01aa1.json",
+					"name" : "test_aiplayer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_gameboard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_gameboard-Debug-ee7ce12f6b758cce98ed.json",
+					"name" : "test_gameboard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_mainwindow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_mainwindow-Debug-5521d399814230d632f7.json",
+					"name" : "test_mainwindow",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

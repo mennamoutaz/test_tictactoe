@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/shell.o
+debug/sqlite3.o
+debug/test_mainwindow.o
+debug/tests.o
+debug/mainwindow.o
+debug/test_mainwindow.o
+debug/moc_test_mainwindow.o
+debug/moc_mainwindow.o
+debug/moc_test_mainwindow.o

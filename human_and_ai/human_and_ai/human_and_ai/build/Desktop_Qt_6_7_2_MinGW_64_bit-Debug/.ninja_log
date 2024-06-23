@@ -1,0 +1,20 @@
+# ninja log v6
+5	356	7407775619339908	build.ninja	97618f14a79a772e
+22	658	7407768528257338	CMakeFiles/test_aiplayer.dir/gameboard.cpp.obj	8e97737412b889
+19	792	7407768528227346	CMakeFiles/test_aiplayer.dir/aiplayer.cpp.obj	c7b9da02e0e3c8d0
+13	630	7407768528162216	CMakeFiles/human_and_ai.dir/gameboard.cpp.obj	d19d0f4ffc47d572
+57	693	7407768528607346	CMakeFiles/test_mainwindow.dir/gameboard.cpp.obj	ee001ce8c0669781
+31	695	7407768528347335	CMakeFiles/test_gameboard.dir/gameboard.cpp.obj	7923edb6a9978683
+9	755	7407768528132233	CMakeFiles/human_and_ai.dir/aiplayer.cpp.obj	68c01c62d7275fdd
+51	808	7407768528547340	CMakeFiles/test_mainwindow.dir/aiplayer.cpp.obj	ebb187c5c4de1736
+4	1805	7407768528082202	CMakeFiles/human_and_ai.dir/main.cpp.obj	36738eaa53a10d58
+5	349	7407775619339908	build.ninja	97618f14a79a772e
+4	13	7407775619714620	clean	577b940aee94fbd7
+19	576	7407775644525034	CMakeFiles/human_and_ai.dir/gameboard.cpp.obj	d19d0f4ffc47d572
+28	602	7407775644625046	CMakeFiles/test_aiplayer.dir/gameboard.cpp.obj	8e97737412b889
+36	627	7407775644625046	CMakeFiles/test_gameboard.dir/gameboard.cpp.obj	7923edb6a9978683
+50	660	7407775644825044	CMakeFiles/test_mainwindow.dir/gameboard.cpp.obj	ee001ce8c0669781
+25	730	7407775644525034	CMakeFiles/test_aiplayer.dir/aiplayer.cpp.obj	c7b9da02e0e3c8d0
+15	747	7407775644425894	CMakeFiles/human_and_ai.dir/aiplayer.cpp.obj	68c01c62d7275fdd
+46	808	7407775644825044	CMakeFiles/test_mainwindow.dir/aiplayer.cpp.obj	ebb187c5c4de1736
+9	1673	7407775644425894	CMakeFiles/human_and_ai.dir/main.cpp.obj	36738eaa53a10d58

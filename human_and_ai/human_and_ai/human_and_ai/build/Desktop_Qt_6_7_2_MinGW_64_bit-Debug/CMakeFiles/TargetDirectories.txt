@@ -1,0 +1,11 @@
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/human_and_ai.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/test_aiplayer.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/test_gameboard.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/test_mainwindow.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/test.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Maha Yasser/OneDrive/Desktop/human_and_ai/human_and_ai/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

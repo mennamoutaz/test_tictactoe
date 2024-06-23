@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b5b21d68408d4f100bcb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "human_and_ai",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "human_and_ai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-human_and_ai-Debug-c19963e641f26d60e147.json",
+					"name" : "human_and_ai",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "human_and_ai_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-human_and_ai_autogen-Debug-ddd4cbda0e027a1e8c86.json",
+					"name" : "human_and_ai_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "human_and_ai_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-human_and_ai_autogen_timestamp_deps-Debug-75b4ec424a66af239622.json",
+					"name" : "human_and_ai_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/tic-tac-toe-24/qt1/human_and_ai/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/tic-tac-toe-24/qt1/human_and_ai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

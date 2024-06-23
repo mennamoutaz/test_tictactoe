@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/shell.o
+release/sqlite3.o
+release/test_mainwindow.o
+release/tests.o
+release/mainwindow.o
+release/test_mainwindow.o
+release/moc_test_mainwindow.o
+release/moc_mainwindow.o
+release/moc_test_mainwindow.o
