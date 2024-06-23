@@ -2,23 +2,27 @@ name: CI
 
 on:
   push:
+    branches:
+      - '**'
   pull_request:
+    branches:
+      - '**'
 
 jobs:
-  test-runner:  # Renamed the job to 'test-runner'
-    runs-on: ubuntu-latest
+  test-runner:
+    runs-on: windows-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install Qt
+      - name: Set up Qt
         run: |
-          sudo apt-get update
-          sudo apt-get install -y qtbase5-dev qt5-qmake
+          choco install qt5-default -y
+          set PATH=C:\Qt\5.15.2\msvc2019_64\bin;%PATH%
 
       - name: Build project
         run: |
           cd ttt
           qmake ttt.pro
-          make
+          nmake
