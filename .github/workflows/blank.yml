@@ -19,5 +19,5 @@ jobs:
 
       - name: Build project
         run: |
-          qmake test_tictactoe/ttt.pro
+          qmake test_tictactoe/ttt/ttt.pro
           make
