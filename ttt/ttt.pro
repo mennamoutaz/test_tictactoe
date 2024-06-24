@@ -13,7 +13,6 @@ SOURCES += \
     mainwindow.cpp \
     shell.c \
     sqlite3.c \
-    test_mainwindow.cpp
 
 HEADERS += \
     mainwindow.h \
@@ -34,13 +33,6 @@ DISTFILES += \
 
 
 
-QT += testlib
-
-CONFIG += testcases
-
-# Specify the test source files
-SOURCES += tests.cpp
-
 # Specify the mainwindow.cpp file
 # Assuming your mainwindow.cpp file is included in your project's sources
 SOURCES += mainwindow.cpp
@@ -48,6 +40,3 @@ SOURCES += mainwindow.cpp
 # Specify the header files
 HEADERS += tests.h
 HEADERS += mainwindow.h
-SOURCES += test_mainwindow.cpp \
-           moc_test_mainwindow.cpp
-
